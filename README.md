@@ -11,8 +11,9 @@ Tesseract supports only the world type of Anvil or PMAnvil. (MCRegion support is
 Tesseract supports packet and event debug system (for plugin developers) <br>
 Tesseract supports Resourcepacks (for API 4.0.0)**
 
-## Information Title
-**TEXTURES PACKS 1.0.4 DO NOT DISPLAY THE TITLES! PLEASE REMOVE YOUR TEXTURES PACK 1.0.4 TO HAVE THE TITLES ON YOUR SERVERS! :)** <br>
+## Titles
+The title command is not implemented, please use a plugin like [this](https://github.com/Misteboss/TitlePE)
+Titles do not work if you have texture packs from 1.0.4.<br>
 
 ## Notice
 
